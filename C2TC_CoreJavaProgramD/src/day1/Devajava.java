@@ -2,27 +2,20 @@ package day1;
 import java.util.Scanner;
 public class Devajava {
 
+
 	public static void main(String[] args) {
+
+		int value1 = 9 / 2; 
+		float value2 = 101 / 61;
+		double value3 = 10d / 6d;
+		float value4 = 5/2.5f; 
+		System.out.println("value 1=" + value1); 
+		System.out.println("value 2=" + value2);
+		System.out.println("value 3=" + value3);
+		System.out.println("value 4=" + value4);
 		
-		char ch = 'a';
-		System.out.println(ch);
-
 		
-		char ch1 = 65;
-		System.out.println(ch1);
+	
 
-		
-		char var1 = '\u00A7';
-		System.out.println(var1);
-
-		
-		char var2 = '\u20AC';
-		System.out.println(var2);
-
-		
-		int a = 'A';
-		System.out.println(a);
-
-	}
-
+}
 }
