@@ -1,10 +1,8 @@
 package day1;
-import java.util.Scanner;
-public class Devajava {
 
+public class DataTypes {
 
 	public static void main(String[] args) {
-
 		int value1 = 9 / 2; 
 		float value2 = 101 / 61;
 		double value3 = 10d / 6d;
@@ -19,5 +17,6 @@ public class Devajava {
 		System.out.println("percentage :" + percentage);
 	
 
-}
+	}
+
 }
