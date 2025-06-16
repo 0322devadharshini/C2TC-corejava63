@@ -1,4 +1,4 @@
-package day3Entityclass;
+ package day3Entityclass;
 
 public class Customer {
 	private int customerID;
