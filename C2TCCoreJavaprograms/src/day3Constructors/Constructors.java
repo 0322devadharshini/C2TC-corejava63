@@ -8,7 +8,7 @@ public static void main(String args[])
 	int id;
 	System.out.print("Enter Customer Id : ");
 	id=sc.nextInt();
-	
+                                                                                                                                                                                                                                                                                                                                                                                                                    	
 	sc.nextLine();
 	System.out.print("Enter Customer Name : ");
 	name=sc.nextLine();
