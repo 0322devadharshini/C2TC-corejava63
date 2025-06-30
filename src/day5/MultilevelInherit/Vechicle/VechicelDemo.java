@@ -1,5 +1,5 @@
 package day5.MultilevelInherit.Vechicle;
-
+//main class
 public class VechicelDemo {
 
 	public static void main(String[] args) {

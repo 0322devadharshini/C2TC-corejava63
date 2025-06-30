@@ -1,5 +1,5 @@
 package day5.SingleInheritence;
-
+//main class
 public class SLInheritanceDemo {
 
 	public static void main(String[] args) {

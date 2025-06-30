@@ -15,7 +15,7 @@ public class CovariantOverridingDemo {
 		
 		 //using covariant return type no need to type cast 
 		 /* Student student2 =student1.clone(); 
-		 * student2.setName("Sachin"); 
+		 * student2.setName(""); 
 		 * student2.setRollNo(2);
 		 * student2.printData();
 		 */		

@@ -1,6 +1,6 @@
 package day6UsingFinal;
 
-
+//class with final method
 	class FinalMethod{
 		// constructor
 		FinalMethod() {

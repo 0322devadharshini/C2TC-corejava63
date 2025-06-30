@@ -1,5 +1,5 @@
 package day7Overloading;
-
+//palindrome
 public class Operation {
 	public static boolean isPalindrome(int number)
 	{

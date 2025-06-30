@@ -9,7 +9,7 @@ public class Person {
 		this.address = address;
 	}
 
-	// Getter and setter methods
+	// Getter and setter methods //association
 
 	public String getName() {
 		return name;

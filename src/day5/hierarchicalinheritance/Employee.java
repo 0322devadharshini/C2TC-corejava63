@@ -1,5 +1,5 @@
 package day5.hierarchicalinheritance;
-
+//package name
 	public class Employee extends Person{
 		private int empId;
 		private float salary;

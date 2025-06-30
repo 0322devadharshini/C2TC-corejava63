@@ -1,5 +1,5 @@
 package day7Overloading;
-
+//main class
 public class Executor {
 
 	public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Executor {
 		System.out.println("Is 123 Palindrome? "+Operation.isPalindrome(123));
 		
 		System.out.println("Is CAR Palindrome? "+Operation.isPalindrome("CAR"));
-		System.out.println("Is RACECAR Palindrome? "+Operation.isPalindrome("RACECAR"));
+		System.out.println("Is RACECAR Palindrome? "+Operation.isPalindrome("RACEcar"));
 
 
 

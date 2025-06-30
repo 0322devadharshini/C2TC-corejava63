@@ -7,7 +7,7 @@ class Vechicle {
 	int year;
 	String model;
 	 void Startengine() {
-		 
+		 //inheritance
 	 }
 }
 class Car extends Vechicle{

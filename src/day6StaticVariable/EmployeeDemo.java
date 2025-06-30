@@ -1,5 +1,5 @@
 package day6StaticVariable;
-
+//main class
 public class EmployeeDemo {
 
 	public static void main(String[] args) {

@@ -6,7 +6,7 @@ public class Address {
 	private String state;
 	private String postalCode;
 
-	// Constructor
+	// Constructor 
 	public Address() {
 		super();
 
@@ -53,3 +53,4 @@ public class Address {
 		this.postalCode = postalCode;
 	}
 }
+//associations

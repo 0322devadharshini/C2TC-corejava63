@@ -1,5 +1,5 @@
 package day7Overriding.covariant;
-
+// parents class
 class Color {
 	
 	protected Color getColor() {

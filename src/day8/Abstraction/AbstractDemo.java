@@ -1,5 +1,5 @@
 package day8.Abstraction;
-
+//main class
 public class AbstractDemo {
 
 	public static void main(String[] args) {

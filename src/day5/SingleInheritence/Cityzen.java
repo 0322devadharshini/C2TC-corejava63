@@ -6,7 +6,7 @@ public class Cityzen {
 	private String address;
 	private long phno;
 	
-	
+	//constructor
 
 	public Cityzen() {
 		System.out.println("Citizen object created");

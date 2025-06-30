@@ -11,8 +11,7 @@ public class FinalVariable {
 
 	
 	void change() {
-		x = 30; // final variables can't be reassigned
-		Y = 200; // final static variables can't be reassigned
+
 	}
 
 	@Override
@@ -23,8 +22,8 @@ public class FinalVariable {
 	
 	static {
 		Y = 20;
-		Z = 100; 
+		
 		System.out.println("Value of Y: " + Y);
 	}
 
-}
+}//error corrected
