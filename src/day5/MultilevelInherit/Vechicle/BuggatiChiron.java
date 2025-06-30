@@ -1,5 +1,5 @@
 package day5.MultilevelInherit.Vechicle;
-//inherits buggati
+
 public class BuggatiChiron extends Buggati{
 	public BuggatiChiron() {
 		System.out.println("Buggati Model: Chiron");

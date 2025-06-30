@@ -5,7 +5,7 @@ public class Employee {
 	private int employeeId;
 	private String department;
 
-	// constructors
+	//constructors
 	public Employee() {
 		super();
 	}

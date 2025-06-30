@@ -1,5 +1,5 @@
 package day5.MultilevelInherit.Texteditor;
-//package name
+
 public class Texteditor {
 
 	public static void main(String[] args) {

@@ -21,4 +21,3 @@ public class MethodOverloading {
 		return a + b;
 	}
 }
-// method overloading

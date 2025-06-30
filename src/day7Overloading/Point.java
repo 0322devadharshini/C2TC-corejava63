@@ -24,4 +24,3 @@ public class Point {
 		return "Point [x=" + x + ", y=" + y + "]";
 	}
 }
-//point class to access the operations

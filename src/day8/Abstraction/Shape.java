@@ -1,5 +1,5 @@
 package day8.Abstraction;
-//parent class
+//parent class of all sub
 public abstract class Shape {
     protected float area;
     

@@ -26,4 +26,4 @@ public class FinalVariable {
 		System.out.println("Value of Y: " + Y);
 	}
 
-}//error corrected
+}//error identified and solved

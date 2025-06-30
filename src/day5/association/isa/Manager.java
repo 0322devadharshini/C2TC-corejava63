@@ -14,7 +14,7 @@ public class Manager extends Employee {
 		this.teamSize = teamSize;
 	}
 
-	// getter/setter methods
+	// getter,setter methods
 	public int getTeamSize() {
 		return teamSize;
 	}

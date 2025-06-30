@@ -30,7 +30,7 @@ class Student implements Cloneable {
 		this.name = name;
 	}
 
-	// Class constructor
+	
 	public Student(int rollNo, String className, String name) {
 		this.rollNo = rollNo;
 		this.className = className;

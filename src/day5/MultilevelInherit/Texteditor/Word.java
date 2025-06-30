@@ -2,7 +2,7 @@ package day5.MultilevelInherit.Texteditor;
 
 public class Word extends Wordpad{
 	private boolean spellCheckEnabled;
-// method
+
     public Word() {
         super();
         this.spellCheckEnabled = true;

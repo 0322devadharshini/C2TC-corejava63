@@ -1,5 +1,5 @@
 package day5.SingleInheritence;
-//inherits cityzen
+
 public class Student extends Cityzen {
 	private int rollNo;
 	private String collegeName;

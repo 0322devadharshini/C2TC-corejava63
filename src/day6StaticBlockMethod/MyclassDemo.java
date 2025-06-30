@@ -1,5 +1,5 @@
 package day6StaticBlockMethod;
-//main class
+
 public class MyclassDemo {
 	public static void main(String[] args) {
 	MyClass o1 = new MyClass();

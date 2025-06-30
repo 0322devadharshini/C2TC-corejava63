@@ -1,5 +1,5 @@
 package day6StaticVariable;
-// using static
+
 public class Employee {
 	private String name;
 	private int id;

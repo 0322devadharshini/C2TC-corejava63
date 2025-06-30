@@ -1,5 +1,5 @@
 package day5.MultilevelInherit.Vechicle;
-//inherits car
+
 public class Buggati extends Car {
 	public Buggati() {
 		System.out.println("Buggati SuperCar and SportsCar Brand");

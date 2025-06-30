@@ -1,5 +1,5 @@
 package day8.Abstraction;
-//sub
+//sub class
 public class Square extends Shape {
 	private float side;
 	public Square()

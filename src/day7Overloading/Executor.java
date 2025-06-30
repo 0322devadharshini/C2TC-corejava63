@@ -1,5 +1,5 @@
 package day7Overloading;
-//main class
+
 public class Executor {
 
 	public static void main(String[] args) {

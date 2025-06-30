@@ -1,5 +1,5 @@
 package day7Overriding.bank;
-//class
+//sub
 public class HDFC extends RBI {
 	@Override
 	public float getRateOfInterest() {

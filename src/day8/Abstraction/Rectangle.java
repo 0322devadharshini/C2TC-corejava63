@@ -1,5 +1,5 @@
 package day8.Abstraction;
-//sub
+//sub clss
 public class Rectangle extends Shape {
 	private float width, height;
 

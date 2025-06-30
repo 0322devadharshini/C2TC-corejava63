@@ -1,5 +1,4 @@
 package day5.hierarchicalinheritance;
-//packagename
 public class Person {
 	private String name;
 	private String city;

@@ -20,7 +20,7 @@ public class Address {
 		this.postalCode = postalCode;
 	}
 
-	// getter/setter methods
+	// getter,setter methods
 	public String getStreet() {
 		return street;
 	}

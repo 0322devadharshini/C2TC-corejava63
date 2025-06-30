@@ -46,4 +46,4 @@ public class Student {
 		return "Student [reg ="+reg+" id ="+ID+" Name =" + Name + "]";
 	}
 	
-}
+}//student

@@ -1,5 +1,5 @@
 package day7Overriding.bank;
-//main class
+//main class of all class
 
 public class OveridingDemo {
 
