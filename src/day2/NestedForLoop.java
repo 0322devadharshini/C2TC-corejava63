@@ -13,5 +13,5 @@ public class NestedForLoop {
 			System.out.println();
 		}
 	}
-
+//nested for loop
 }

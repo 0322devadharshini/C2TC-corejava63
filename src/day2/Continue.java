@@ -8,7 +8,7 @@ public class Continue {
 	
 		if (k%2 != 0)
 		continue;
-		
+		//continue
 		System.out.print(k + " ");
 		}
 

@@ -12,7 +12,7 @@ public class Employee {
 		this.name = name;
 		this.id = id;
 	}
-
+//employee
 	@Override
 	public String toString() {
 		return "Employee [name=" + name + ", id=" + id + ", Company= "+companyName+"]";

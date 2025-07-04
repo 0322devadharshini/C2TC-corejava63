@@ -14,7 +14,7 @@ public class Input {
 		a[i]=sc.nextInt();
 	}
 		
-		
+	//input	
 
 	}
 

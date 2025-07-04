@@ -5,3 +5,4 @@ public class RBI {
 		return 6.7f;
 	}
 }
+//get float

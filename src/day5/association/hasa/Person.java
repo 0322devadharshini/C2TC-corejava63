@@ -26,7 +26,7 @@ public class Person {
 	public void setAddress(Address address) {
 		this.address = address;
 	}
-
+//person
 	public void displayInfo() {
 		System.out.println("Name: " + name);
 		System.out.println("Address: " + address.getStreet() + ", " + address.getCity() + ", " + address.getState()

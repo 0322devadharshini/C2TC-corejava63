@@ -10,7 +10,7 @@ public class Student {
 	System.out.println("constructor called");
 	}
 	
-	
+	//student
 	public String getName() {
 		return Name;
 	}

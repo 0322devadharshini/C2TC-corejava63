@@ -18,7 +18,7 @@ public class Employee {
 
 	}
 
-	// getter/setter methodss
+	// getter/setter methods
 	public String getName() {
 		return name;
 	}

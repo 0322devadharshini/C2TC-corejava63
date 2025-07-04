@@ -16,7 +16,7 @@ public class MethodOverloading {
 	public static float addition(float a, int b) {
 		return a + b;
 	}
-
+//method
 	public static String addition(String a, String b) {
 		return a + b;
 	}

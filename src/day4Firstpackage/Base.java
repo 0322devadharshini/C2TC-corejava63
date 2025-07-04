@@ -19,7 +19,7 @@ public class Base {
 		System.out.println("Public access Base class");
 		System.out.println("Public Variable : "+varPublic);
 	}
-	
+	//base
 	private void methodPrivate()
 	{
 		System.out.println("Private access Base class");

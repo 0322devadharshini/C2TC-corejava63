@@ -10,7 +10,7 @@ public class Square extends Shape {
 	{
 		this.side=side;
 	}
-	
+	//square
 	@Override
 	void calArea() {
 		super.area=side*side;		

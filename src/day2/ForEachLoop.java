@@ -21,7 +21,7 @@ public class ForEachLoop {
 				{
 					System.out.print(s+" ");		
 				}
-
+//for each loop
 	}
 
 }

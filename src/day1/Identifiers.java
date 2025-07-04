@@ -3,7 +3,7 @@ package day1;
 public class Identifiers {
 
 	public static void main(String[] args) {
-		
+		//identifiers
 		int $number = 20; 
 		System.out.println("value of the number variable is : "+ $number);
 	

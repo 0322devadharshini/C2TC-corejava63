@@ -15,7 +15,7 @@ public class DataTypes {
 		int marker =257;
 		           double percentage=marker*0.46f;
 		           System.out.println("percentage="+percentage);
-
+//data types
 	}
 
 }

@@ -7,7 +7,7 @@ public class Wordpad extends Notepad{
         super();
         this.isBold = false;
     }
-
+//word pad
     public void formatText(boolean bold) {
         if (bold) {
             content = "<b>" + content + "</b>";

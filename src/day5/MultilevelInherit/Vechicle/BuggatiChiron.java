@@ -8,5 +8,5 @@ public class BuggatiChiron extends Buggati{
 	public void speed() {
 		System.out.println("Max: 420Kmph");
 	}
-
+//speed
 }

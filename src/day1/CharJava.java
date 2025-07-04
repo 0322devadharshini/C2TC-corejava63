@@ -14,7 +14,7 @@ public class CharJava {
 	    System.out.println(var2);
 	    int a='A';
 	    System.out.println(a);
-	      
+//char program	      
 
 	}
 

@@ -8,7 +8,7 @@ public class ForLoopeg {
 			System.out.print("Value of i:");
 			System.out.println(i);
 		}
-
+//for loop
 	}
 
 }

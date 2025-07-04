@@ -14,7 +14,7 @@ public class CustomerDemo {
 		cs1.setCustomerName("Dhanush");
 		cs1.setCity("Chennai");
         System.out.println(cs1);
-        
+        //customer demo
 	}
 
 }

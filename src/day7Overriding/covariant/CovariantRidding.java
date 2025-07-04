@@ -7,7 +7,7 @@ class Color {
 		return s;
 	}
 }
-
+//class
 
 class Red extends Color {
 	@Override

@@ -16,7 +16,7 @@ package day5.hierarchicalinheritance;
 			this.dept = dept;
 		}
 		
-		
+		//employee
 		public Employee(String name, String city,int empId, float salary, String dept) {
 			super(name,city);
 			this.empId = empId;

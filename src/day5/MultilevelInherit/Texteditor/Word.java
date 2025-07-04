@@ -7,7 +7,7 @@ public class Word extends Wordpad{
         super();
         this.spellCheckEnabled = true;
     }
-
+//word
     public void spellCheck() {
         if (spellCheckEnabled) {
             System.out.println("Running spell check...");

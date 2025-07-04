@@ -8,5 +8,5 @@ public class SlinheriteDemo {
 		Trainer l1=new Trainer (128,"santhosh","chennai","student","Thiruporur");
 		System.out.println(l1);
 	}
-
+//trainer
 }

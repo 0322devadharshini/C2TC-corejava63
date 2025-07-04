@@ -18,7 +18,7 @@ public class Point {
 		this.x = x;
 		this.y = y;
 	}
-
+//point
 	@Override
 	public String toString() {
 		return "Point [x=" + x + ", y=" + y + "]";

@@ -10,5 +10,5 @@ public class WhileLoop {
 			i++;
 		}
 	}
-
+//while loop
 }

@@ -1,6 +1,6 @@
 package day1;
 import java.util.Scanner;
-public class firstprogram{
+public class firstjavaprogram{
 
 	public static void main(String[] args)
 	{

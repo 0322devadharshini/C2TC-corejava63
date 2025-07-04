@@ -11,7 +11,7 @@ public class Address {
 		super();
 
 	}
-
+//super class
 	public Address(String street, String city, String state, String postalCode) {
 		super();
 		this.street = street;

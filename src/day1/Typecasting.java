@@ -11,7 +11,7 @@ public class Typecasting {
 		float f = 22.14f;
 		double d = f;
 		System.out.println(d);
-		
+//type castings		
 		char ch = 'A';
 		int i3 = ch;
 		System.out.println(i3);

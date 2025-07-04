@@ -7,7 +7,7 @@ class Vechicle {
 	int year;
 	String model;
 	 void Startengine() {
-		 //inheritancee
+		 //inheritance
 	 }
 }
 class Car extends Vechicle{
@@ -22,7 +22,7 @@ class Car extends Vechicle{
 	 void drive(int Topspeed){
 		 System.out.println("This car's Top speed is "+Topspeed+" powerd with V12 Engine with Twin Turbo it can go 0 to 100 in 5sec");
 	 }
-
+//car
 }
 class Truck extends Vechicle{
 	int LoadCapacity;

@@ -7,5 +7,5 @@ public class SLInheritanceDemo {
 		System.out.println(st);
 
 	}
-
+//public class
 }

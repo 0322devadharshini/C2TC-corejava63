@@ -10,7 +10,7 @@ public class Notepad {
 	    public void write(String text) {
 	        content += text;
 	    }
-
+//notepad
 	    public void displayContent() {
 	        System.out.println("Notepad Content: " + content);
 	    }

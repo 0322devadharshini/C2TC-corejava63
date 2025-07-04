@@ -7,7 +7,7 @@ public class MyclassDemo {
 
 	
 	MyClass.display();
-
+//display
 	MyClass o2 = new MyClass();
 	System.out.println(o2);
 	MyClass.display( );

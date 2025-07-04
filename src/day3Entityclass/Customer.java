@@ -16,6 +16,7 @@ public class Customer {
 	public void setCustomerName(String customerName) {
 		this.customerName = customerName;
 	}
+	//customer
 	public String getCity() {
 		return City;
 	}

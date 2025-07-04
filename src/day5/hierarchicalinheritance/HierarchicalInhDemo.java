@@ -15,7 +15,7 @@ public class HierarchicalInhDemo {
 		p = new Employee("Jai", "chennai", 101, 470000, "Sales");
 		if (p instanceof Employee)
 		System.out.println("Employee Details "+p);
-		
+	//public class	
 
 		p = new Student("Santhosh", "Banglore", "FE", 88);
 		if (p instanceof Student)

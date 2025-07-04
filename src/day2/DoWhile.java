@@ -1,7 +1,7 @@
 package day2;
 
 public class DoWhile {
-
+//do while
 	public static void main(String[] args) {
 		int i = 11;
 		do {

@@ -25,7 +25,7 @@ public class AbstractDemo {
 		shape.calArea(); // invoked Rectangle class calArea()
 		shape.show();
 		
-		
+		//shape
 		
 		
 

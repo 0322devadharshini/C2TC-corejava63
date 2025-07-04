@@ -11,7 +11,7 @@ public class Customer {
 			System.out.println("Default Constructor");
 		}
 		
-		
+	//customer	
 		public Customer(String customerName, int customerId, String customerCity) {
 			
 			this(); 

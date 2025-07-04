@@ -6,7 +6,7 @@ package day7Overriding.bank;
 		public float getRateOfInterest() {
 			return 7.0f;
 		}
-
+//public
 		public SBI getObject() {
 			return this;
 		}

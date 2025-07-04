@@ -18,7 +18,7 @@ public class Manager extends Employee {
 	public int getTeamSize() {
 		return teamSize;
 	}
-
+//manager
 	public void setTeamSize(int teamSize) {
 		this.teamSize = teamSize;
 	}

@@ -13,7 +13,7 @@ public class Operation {
 		return dummyNumber==rev;
 	}
 
-	
+	//boolean
 	public static boolean isPalindrome(String str)
 	{
 		String rev;

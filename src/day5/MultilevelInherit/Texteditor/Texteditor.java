@@ -9,7 +9,7 @@ public class Texteditor {
 		word.formatText(true);
 		word.write("World!");
 		word.displayContent();
-
+//text editor
 		word.spellCheck();
 
 		System.out.println("Is text in Wordpad bold? " + word.isBold());

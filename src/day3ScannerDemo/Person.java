@@ -19,6 +19,7 @@ public class Person {
 	public void setName(String name) {
 		this.name = name;
 	}
+	//scanner
 	public int getIncome() {
 		return income;
 	}

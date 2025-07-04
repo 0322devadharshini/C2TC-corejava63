@@ -26,7 +26,7 @@ public class SwitchDemo {
 			break;
 		}
 	
-
+//switch demo
 	}
 
 }

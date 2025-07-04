@@ -10,7 +10,7 @@ public class Executor {
 		System.out.println("Is CAR Palindrome? "+Operation.isPalindrome("CAR"));
 		System.out.println("Is RACECAR Palindrome? "+Operation.isPalindrome("RACEcar"));
 
-
+//executor
 
 	}
 

@@ -13,7 +13,7 @@ public class Person {
 		this.name = name;
 		this.city = city;
 	}
-
+//person
 	public String getName() {
 		return name;
 	}

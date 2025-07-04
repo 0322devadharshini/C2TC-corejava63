@@ -12,7 +12,7 @@ public class Student extends Person {
 		this.clas = clas;
 		this.per = per;
 	}
-	
+	//student
 	public String getClas() {
 		return clas;
 	}

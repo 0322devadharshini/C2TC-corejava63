@@ -12,7 +12,7 @@ public class VechicelDemo {
 		m.Brand();
 		m.Year();
 		m.Model();
-		
+	//vehicle	
 		BuggatiChiron m1=new BuggatiChiron();
 		m1.vehicleType();
 		m1.Brand();

@@ -6,7 +6,7 @@ public class OveridingDemo {
 	public static void main(String[] args) {
 		RBI rbi;
 
-
+//demo
 		rbi = new SBI();
 		System.out.println(rbi.getRateOfInterest());
 

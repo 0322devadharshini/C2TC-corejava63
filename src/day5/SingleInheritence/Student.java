@@ -7,7 +7,7 @@ public class Student extends Cityzen {
 	public Student() {
 		super();
 	}
-
+//student
 	public Student(String name, String aadharNo, String address, long phno, int rollNo, String collegeName) {
 		super(name, aadharNo, address, phno); 
 		this.rollNo = rollNo;

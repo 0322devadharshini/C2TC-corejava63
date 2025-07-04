@@ -16,7 +16,7 @@ public class PersonDemo {
 		System.out.println("Enter taxable income: ");
 		int income = ob.nextInt();
 		
-		
+	//person demo	
 		Person person = new Person();
 		person.setName(name);
 		person.setAge(age);

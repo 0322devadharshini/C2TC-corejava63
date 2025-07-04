@@ -13,7 +13,7 @@ public class FinalVariable {
 	void change() {
 
 	}
-
+//final
 	@Override
 	public String toString() {
 		return "FinalVariable [x=" + x + ", Y" + Y + "]";

@@ -2,7 +2,7 @@ package day3Encapsulation;
 
 public class Encapsulation {
 public static void main(String[] args) {
-		
+		//Encapsulation
 		 
 		OopsConceptDemo obj = new OopsConceptDemo();
 		obj.setSerialNum(128);

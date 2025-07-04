@@ -13,6 +13,7 @@ public class Trainer extends Person {
 		this.designation=designation;
 		this.location=location;
 	}
+	//location
 	public String getDesigtation() {
 		return designation;
 	}
